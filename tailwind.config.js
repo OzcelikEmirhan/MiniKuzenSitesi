@@ -7,8 +7,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'burak': "url('./src/assets/BurakProfil.jpeg')",
-        'alp': "url('./src/assets/Alp.jpeg')",
+        'burak': "url('./public/BurakProfil.jpeg')",
+        'alp': "url('./public/Alp.jpeg')",
       },
       screens: {
         'xs': '300px',
